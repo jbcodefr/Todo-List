@@ -1,8 +1,14 @@
 
 body{
-    font-family: Gabriola;
+    font-family: "Corbel Light";
 }
 
 #newtaskbutton{
     display: none;
+}
+li{
+    margin: 5px;
+}
+#submitform{
+    margin: 5px;
 }
